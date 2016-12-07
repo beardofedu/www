@@ -85,6 +85,8 @@ Tools of the Trade
     - Code Testing
 * Sphinx
 * Jekyll
+   * Guide
+     * https://jekyllrb.com/docs/quickstart/
 
 API Documentation
 -----------------
