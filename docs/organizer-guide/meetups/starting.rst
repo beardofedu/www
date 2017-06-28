@@ -1,9 +1,9 @@
 Starting a Meetup
 =================
 
-Write the Docs `Meetups <http://www.writethedocs.org/meetups/>`_ provide
+Write the Docs :doc:`/meetups/index` provide
 a great way to connect and continue the conversations sparked by our
-`conferences <http://www.writethedocs.org/conf/>`_, `slack channel
+:doc:`/conf/index`, `slack channel
 <http://slack.writethedocs.org/>`_ and `forum <http://forum.writethedocs.org/>`_ .
 If you don't have a Write the Docs Meetup nearby, we can help you get one started.
 With a little help, you can make it happen with a Meetup in your area!
@@ -17,9 +17,14 @@ Start by watching this video:
 Write the Docs Worldview
 ------------------------
 
-Yes, Write the Docs has a worldview. It's inclusive and expansive. We welcome everyone who is interested in creating great documentation that helps people develop, use, and maintain products and services. Our community includes technical writers, developers of all flavors, QA, product managers, support engineers, designers, librarians, scientists, community managers, and more.
+Yes, Write the Docs has a worldview. It's inclusive and expansive. We welcome
+everyone who is interested in creating great documentation that helps people
+develop, use, and maintain products and services. Our community includes
+technical writers, developers of all flavors, QA, product managers, support
+engineers, designers, librarians, scientists, community managers, and more.
 
-For more information about the Write the Docs worldview, see Eric Holscher's Introduction to the conference and community from Write the Docs NA 2016:
+For more information about the Write the Docs worldview, see Eric Holscher's
+Introduction to the conference and community from Write the Docs NA 2016:
 
 .. note:: For the tl:dr, start watching at the 1:30 mark.
 
@@ -32,7 +37,15 @@ Now for some details:
 Launch your Group
 -----------------
 
-You can start a Write the Docs Meetup by using the `Meetup.com <http://www.meetup.com/>`_ service. You can use the website or the mobile app to create events, contact Meetup members, promote your sponsors, and more. If you need help with Meetup fees, `contact us <mailto:conf@writethedocs.org>`_. We may be able to help.
+
+Before you get started, check out our :doc:`/organizer-guide/meetups/faq-meetups/`.
+
+You can start a Write the Docs Meetup by using the `Meetup.com
+<http://www.meetup.com/>`_ service. You can use the website or the mobile app to
+create events, contact Meetup members, promote your sponsors, and more.
+
+- For advice on running meetups, or questions not covered here or in the :doc:`/organizer-guide/meetups/faq-meetups/`, drop us a line in `#meetup-organisers <https://writethedocs.slack.com/messages/meetup-organisers/>`_ on Slack.
+- For help with Meetup fees or technical issues, `email us <mailto:conf@writethedocs.org>`_.
 
 Create a Meetup Page:
 ~~~~~~~~~~~~~~~~~~~~~
@@ -46,7 +59,10 @@ Tips:
 * **Members' name**: Our standard name for members is "Documentarian".
 * **Code of Conduct**: Do include a code of conduct. For options, see the standard Write the Docs' :doc:`/code-of-conduct` or the abbreviated version used by `Write the Docs PDX <https://www.meetup.com/Write-The-Docs-PDX/pages/19618086/Code_of_Conduct/>`_
 
-After you've started your Meetup, `send us a note <mailto:conf@writethedocs.org>`_ or send us a message via `Slack <https://writethedocs.slack.com/>`_, so we can add your Meetup information to the :doc:`/meetups/index` list.
+After you've started your Meetup, `Add
+<https://github.com/writethedocs/www/blob/master/docs/meetups/index.md>`_ your
+meetup  to the list or send us `an email <mailto:conf@writethedocs.org>`_ so we
+can add your Meetup information to the :doc:`/meetups/index` list.
 
 Find a Place to Meet
 --------------------
@@ -70,8 +86,8 @@ location. Try sending out an email like the example provided in the following te
     I am the organizer of Write the Docs {{ city name }} meetup {{ link to meetup page }}. Write the Docs
     {{ writethedocs.org }} is a global community of people interested in excellent documentation.
 
-    We'd like your help! If you're interested in improving your documentation, help us. We'll provide a resource with different experiences, and potentially
-    writers who can help with your documentation.
+    We'd like your help! If you're interested in improving your documentation, help us. We'll provide
+    a resource with different experiences, and potentially writers who can help with your documentation.
 
     If you have any questions, please do not hesitate to contact us.
 
@@ -115,26 +131,49 @@ Speakers:
 ~~~~~~~~~
 
 
-* Look for previous and future speakers at `Write the Docs conferences <http://www.writethedocs.org/conf/>`_ .
+* Look for previous and future speakers at `Write the Docs conferences <http://www.writethedocs.org/conf/>`__.
 * Scan other conferences local speakers.
 * Review other meetups and conferences for speakers of interest, in areas such as APIs, Agile, software languages, and more.
 * Ask people at your meetups to do a talk.
 * Invite different speakers to each Meetup. Repeat speakers are OK if it's been over a year.
 * Invite speakers from different backgrounds and don't limit talks to writing.
-* For example, you might want to invite someone who codes or leads a community in Python, Javascript, or Ruby, and ask them to share a project or approach to documentation specific to their domain. Or, invite an architect, editor, designer, user experience professional, or support representative to talk about their approach to documentation projects and problems.
+
+  For example, you might want to invite someone who codes or leads a community in Python, Javascript, or
+  Ruby, and ask them to share a project or approach to documentation specific to their domain. Or, invite an architect,
+  editor, designer, user experience professional, or support representative to talk about their approach to documentation
+  projects and problems.
 
 Try different formats. Alternatives:
 
 * Panels,
-* `Round-tables <http://www.meetup.com/Write-The-Docs-London/events/231780773/>`_,
+* `Round-tables <https://www.meetup.com/Write-The-Docs-London/events/231780773/>`_
 * Lightning talks
 * Workshops
 
-If you can't find a local speaker, find a video of a talk from a previous
-`Write the Docs conference <http://www.writethedocs.org/conf/>`. Ask the speaker(s)
-if they're willing to field questions. Share the video with the group during the
-meetup. Set up questions and answers with the speaker during the Meetup. For
-one successful example, see the following Meetup: `So you need to document an API <http://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/events/232962552/>`_
+
+If You Can't Find a Local Speaker
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If you can't find a local speaker, consider screening a popular talk from one of the
+`Write the Docs conferences <http://www.writethedocs.org/videos/>`_ and inviting the conference presenter to call in for
+a live Q & A session. Both the Boulder and Austin meetups have done well with this format.
+
+ * `So you need to document an API <https://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/events/232962552/>`_
+
+ * `Living documentation <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/231859187/>`_
+
+If you choose this format (or have a remote speaker), make sure your meeting venue supports high quality video
+presentation and audio conferencing.
+
+
+You Don't Always Need a Speaker
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It is not always easy to find a speaker. Other meetups have done well with
+alternatives:
+
+* Coffee Klatches; suitable for meetups with a few people. The Seattle meetup has done well with this format.
+* Pure networking meetup; you can "roundtable" a specific topic; give each attendee a chance to talk about what they do.
 
 Starting the Meetup:
 --------------------

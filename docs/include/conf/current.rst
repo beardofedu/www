@@ -1,8 +1,8 @@
 2017 Conferences
 ----------------
 
-- Write the Docs Portland, May 14-16, **Portland, Oregon**
-- Write the Docs Europe, **Fall 2017**
+- :doc:`Write the Docs Portland </conf/na/2017/index>`, May 14-16, **Portland, Oregon**
+- :doc:`Write the Docs Prague </conf/eu/2017/index>`, September 10-12, **Prague, Czech Republic**
 
 Look at all of these happy people at our Portland conference in 2016!
 

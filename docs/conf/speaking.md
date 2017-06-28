@@ -5,14 +5,16 @@ help you plan your talk and your slides.
 
 ### Facts
 
-* Your talk will be either 15 minutes or 30 minutes. You should know which by now; if you're 
+* Your talk will be either 20 minutes or 30 minutes. You should know which by now; if you're 
 not sure, let us know right away at conf@writethedocs.org.
-* There will be no time for questions immediately following your talk.
+* There will be no time for questions immediately following your talk, plan to use the entire slot.
 * We strongly recommend that you practice your talk, ideally in front of at least one other person.
+* We will have a lapel mic for you, so you don't need to hold one.
+* We will provide adapters for Mac & HDMI computers.
 
 ### Presentation
 
-This year, we will not be allowing time after the presentations for questions,
+**We do not be allow time after the presentations for questions**,
 we feel posing questions for the speaker is best done on a more limited basis.
 If any attendees have questions, they will be instructed to come up to stage to
 present them to the speaker, rather than take up the time of the rest of the
@@ -28,6 +30,8 @@ If you haven't spoken before, your time will likely run
 a bit shorter on stage than when you are practicing. Matt Haughey
 wrote a [guide on giving a presentation][introverts-guide] that might be a
 tremendous help to you if you are new to presenting in front of audiences.
+The [article](https://hynek.me/articles/speaking/) from Hynek is also a wonderful one,
+which covers the steps to prepare for a talk.
 
 There are a lot of different ways of thinking through making your slides.
 Idan Gazit,
@@ -44,11 +48,12 @@ but it might be useful to think through the process.
 You'll be responsible for making sure your laptop, or other display device, is
 ready for your presentation. Be familiar with setting up an external display on
 your machine, each presenter will have several minutes for set up before the
-talk starts. We will provide connectors for Mac & HDMI.
+talk starts. **We will provide connectors for Mac & HDMI.**
 
 Here are a few other tidbits to remember:
 
 * Make sure that your slides are **high contrast**. It will make them easier for everyone to read in the room.
+* Try not to use the bottom ~10% of your slides, as they might not be visible to everyone.
 * Include your Twitter handle on your slides, so people can quote you properly :)
 * Slides should be 16:9 resolution
 * Have a PDF backup of your slides, just in case :)
@@ -70,3 +75,4 @@ We highly recommend watching the full talk:
 Please let us know if you have any more questions.
 Your questions will just lead to making this document better,
 so please [email us](mailto:conf@writethedocs.org) any questions.
+

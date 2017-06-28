@@ -31,9 +31,14 @@ Getting Started with Documentation
 Writing Great Documentation
 ---------------------------
 
+.. toctree::
+   :maxdepth: 2
+
+   writing/docs-principles
+   docs-as-code
+
 * Structuring your Documentation
 * Style Guides
-* :ref:`interesting-approaches`
 
 Documentation Culture at your Company
 -------------------------------------
@@ -54,6 +59,7 @@ This gets us fired up.
 Check out these resources that we get inspired by:
 
 * https://github.com/PharkMillups/beautiful-docs
+* https://github.com/showcases/projects-with-great-wikis
 * Your link here
 
 Markup Languages
@@ -80,10 +86,6 @@ Tools of the Trade
    tools/index
 
 * Keeping your documentation up to date
-* Automated testing
-    - Link checking
-    - Code Testing
-* Sphinx
 * Jekyll
    * Guide
      * https://jekyllrb.com/docs/quickstart/
@@ -131,6 +133,7 @@ Additional Notes
    :maxdepth: 2
 
    about/index
+   contributing
 
 Write the Docs Resources
 ------------------------

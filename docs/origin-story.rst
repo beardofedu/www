@@ -1,25 +1,37 @@
 Origin Story
 ============
 
-The story of how Write the Docs came to be has been told, but it's time to put it up on our own site. 
-The first documentation of the emerging documentarian community comes appropriately enough in the form of a `tweet`_ from early 2013:
+Write the Docs was founded by Troy Howard, Eric Redmond, and Eric Holscher in 2013.
+This page tells some of the story,
+so that you can see our origins,
+and understand where we're coming from.
+
+The community has :doc:`grown </blog/write-the-docs-2016-year-in-review>` a lot from this point,
+and we're glad you're with us for the ride.
+
+History
+-------
+
+The story of how Write the Docs came to be has been told before,
+but it's time to put it up on our own site.
+The first sign of the emerging documentarian community comes in the form of a `tweet`_ from early 2013:
 
 .. image:: /_static/img/origin-tweet.png
    :width: 75%
-
-What happened next is best told in the words of one of the founders,
-Troy Howard. 
-He wrote it in early 2014, 
-before the second conference. 
-So read it, 
-and ponder just how far we've come since then.
-
-We'll let `Troy <https://twitter.com/thoward37>`_ tell the `story <http://blog.thoward37.me/articles/developer-to-documentarian/>`_ from here.
+   :target: https://twitter.com/ericholscher/status/287998770011074560
 
 .. _tweet: https://twitter.com/ericholscher/status/287998770011074560
 
-History by Troy Howard
-----------------------
+What happened next is best told in the words of one of the founders,
+Troy Howard.
+He wrote it in early 2014,
+before the second conference.
+So read it,
+and ponder just how far we've come since then.
+
+We'll let `Troy <https://twitter.com/thoward37>`_ tell the `story <http://blog.thoward37.me/articles/developer-to-documentarian/>`_ from here:
+
+----------
 
 Background
 ~~~~~~~~~~
@@ -45,9 +57,9 @@ has been a vital resource to the Python open source community.
 As a developer, I have always cared about documentation, but I'm not
 sure I ever thought about it *deeply* until I got to know Eric Holscher
 better. Sometime in early 2013, I ran into Eric at a local eatery, and
-we started discussing Read The Docs. He had recently `left his job at
+we started discussing Read the Docs. He had recently `left his job at
 Urban Airship <http://ericholscher.com/blog/2013/jan/10/walk-woods/>`__
-and was able to work on Read The Docs full time. This was going well,
+and was able to work on Read the Docs full time. This was going well,
 but he was concerned about the future of the project. There didn't seem
 to be a sense of community around documentation. Was documentation ever
 going to be given the focus it needed?
@@ -103,9 +115,7 @@ Instead, we had hundreds of signups for the mailing list in the first
 day. Over the next couple months we were contacted by people from a
 variety of disciplines; technical writing industry groups, designers,
 typographers, literate programmers, API driven startups, and more. We
-quickly `found a new
-venue <http://docs.writethedocs.org/conference/venue/>`__,
-and sold out a 250 person conference. The
+quickly found a new venue, and sold out a 250 person conference. The
 `experience <http://adaptgather.com/2013/04/11/write-the-docs-2013/>`__
 was amazing. We'd found our tribe, and they'd found us.
 
@@ -118,6 +128,8 @@ Francisco <http://www.meetup.com/Write-the-Docs/>`__,
 York <http://www.meetup.com/Write-The-Docs-NY/>`__. We're working on
 building more.
 
+----------
+
 Where we are now
 ----------------
 
@@ -127,4 +139,3 @@ over 1,500 :doc:`meetup </meetups/index>` members that have joined meetup groups
 
 The community keeps growing larger and larger,
 and we're happy to welcome everyone into this wonderful group of documentarians.
-

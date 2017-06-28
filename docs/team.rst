@@ -21,6 +21,8 @@ Messaging folks on the Write the Docs `Slack <http://slack.writethedocs.com/>`_ 
    :backlinks: none
    :depth: 1
 
+.. _moderation-team:
+
 Moderation Team
 ---------------
 
@@ -67,6 +69,7 @@ Members
 
 * `Mike Jang <https://twitter.com/TheMikeJang>`_, Senior Staff Technical Writer, ForgeRock *
 * `Margaret Eker <https://twitter.com/meker>`_
+* `Rose Williams <https://twitter.com/ZelWms>`_
 * You?
 
 
@@ -86,7 +89,7 @@ but
 Members
 ```````
 
-* `Eric Holscher <https://twitter.com/ericholscher>`_ * 
+* `Eric Holscher <https://twitter.com/ericholscher>`_ *
 * `Jennifer Rondeau <https://twitter.com/bradamante>`_
 * You?
 
@@ -121,12 +124,13 @@ Roles
 
 * Manage the `@writethedocs <https://twitter.com/writethedocs>`_ twitter account
 * Reply to folks who have questions on Twitter
-* Track, post, and retweet relevant content
+* Track, post, and retweet relevant content (2-3 times a day, max)
 
 Members
 ```````
 
-* Volunteers Needed!
+* `Rose Williams <https://twitter.com/ZelWms>`_
+* You?
 
 
 Website Team

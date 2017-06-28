@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Use like::
 
@@ -24,13 +25,24 @@ d = pq(url=url)
 content = d('.col-content').html()
 if not content:
     content = d('.body').html()
+    # Remove page title
+    d = pq(content)
+    d.find('span').remove()
+    d.find('h1').remove()
+    # Convert images
+    for img_obj in d('img'):
+        img = pq(img_obj)
+        if '../../' in img.attr('src'):
+            src = img.attr('src')
+            src = src.replace('../../', 'http://www.writethedocs.org/', 1)
+            img.attr('src', src)
+
+    content = d.html()
 # Remove header links
-content = re.sub(r'<a class="headerlink" .+</a>', '', content)
+try:
+    content = re.sub(r'<a class="headerlink" .+</a>', '', content)
+except:
+    pass
 
-# Remove page title
-# d = pq(content)
-# d.find('span').remove()
-# d.find('h1').remove()
-# content = d.html()
 
-print content
+print(content)
